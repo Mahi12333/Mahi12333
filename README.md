@@ -1,4 +1,5 @@
-[![kkkkkkk.png](https://i.postimg.cc/Pf2W3hh7/kkkkkkk.png)](https://postimg.cc/vDxxTJ47)
+[![kkkkkkk.png]()
+
 
 <h1 align="center">Hi 👋, I'm Mahitosh Giri</h1>
 <h3 align="center">A passionate Mern Stack from India</h3>
