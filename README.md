@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Spring Boot & Node.js projects**
 - 🌱 I’m exploring **Microservices, RabbitMQ, and Security best practices**
 - 👨‍💻 All my projects are available at **[Your Portfolio Link]**
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[mahitoshgiri287@gmail.com]**
 - ⚡ Fun fact: I love optimizing APIs and automating workflows 🚀
 
 ---
